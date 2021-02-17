@@ -21,6 +21,6 @@ public class MasterMind {
    * Precondition - guess.length() == secret.length()
    */
    public String check(String guess){
-      // to be implemented  
+      return null;
    }
 }
